@@ -768,6 +768,17 @@ table.plain {
     top: -33px;
 }
 
+/* XXX some custom stuff  */
+
+.blog-title, .blog-description {
+    text-shadow: 1px 1px 2px black;
+}
+
+.blog-description {
+    font-family: 'Open Sans',sans-serif;
+}
+
+/* XXX END OF CUSTOM STUFF */
 
 /* ==========================================================================
    9. Media Queries - Smaller than 900px
